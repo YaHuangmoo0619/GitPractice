@@ -39,3 +39,4 @@ target/
 .classpath
 .project
 .gitignore
+/.metadata/
