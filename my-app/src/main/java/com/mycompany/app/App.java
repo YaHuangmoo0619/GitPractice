@@ -11,5 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         Animal dog = new Dog();
         dog.eat();
+        Animal cat = new Cat();
+        cat.eat();
     }
 }
