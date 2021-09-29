@@ -8,4 +8,7 @@ public class Cat implements Animal {
 		System.out.println("eat meat2");
 	}
 
+	public void play() {
+		System.out.println("catch butterfly");
+	}
 }
